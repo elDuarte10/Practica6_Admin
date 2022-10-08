@@ -34,33 +34,42 @@
                     </div>
                 </nav>
             </header>
-            <div class="w-100">
-                <div id="carouselExampleControls" class="carousel slide w-75" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="img/img_bllr.jpg" class="d-block w-100" alt="..."/>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="img/img_ft.jpg" class="d-block w-100" alt="..."/>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="img/img_msc.png" class="d-block w-100" alt="..."/>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="img/img_mvs.png" class="d-block w-100" alt="..."/>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="img/img_srs.jpg" class="d-block w-100" alt="..."/>
+            <div class="card w-100">
+                <img src="img/img_banner.jpg" class="img-fluid" />
+                <div class="card-img-overlay">
+                    <div class="row h-100 align-items-center justify-content-center">
+                        <div class="col-auto p-lg-5">
+                            <div class="row h-100 align-items-center justify-content-center">
+                                <div id="carouselExampleControls" class="carousel slide w-75" data-bs-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="img/img_bllr.jpg" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/img_ft.jpg" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/img_msc.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/img_mvs.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/img_srs.jpg" class="d-block w-100" alt="..." />
+                                        </div>
+                                    </div>
+                                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Previous</span>
+                                    </button>
+                                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Next</span>
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
                 </div>
             </div>
             <section class="w-100">
