@@ -1,0 +1,10 @@
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\bin\Actividad6.dll.config
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\bin\Actividad6.dll
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\bin\Actividad6.pdb
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.AssemblyReference.cache
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.CoreCompileInputs.cache
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.CopyComplete
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\obj\Debug\Actividad6.dll
+C:\Users\Duart\Source\Repos\elDuarte10\Practica6_Admin\Actividad6\Actividad6\obj\Debug\Actividad6.pdb
