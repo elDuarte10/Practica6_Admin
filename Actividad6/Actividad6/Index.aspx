@@ -72,11 +72,16 @@
                     </div>
                 </div>
             </div>
-            <section class="w-100">
-                <article>
-                </article>
-            </section>
+            <div class="w-100">
+                <section class="w-100">
+                    <article>
+                    </article>
+                </section>
+            </div>
             <footer>
+                <div class="bg-primary w-100 text-center text-white">
+                    <h6>David Duarte Salgado 361063 07/10/22 - 08/10/22</h6>
+                </div>
             </footer>
         </div>
     </form>
