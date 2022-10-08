@@ -23,11 +23,11 @@
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div class="navbar-nav">
                                 <a class="nav-link active text-white" aria-current="page" href="#"><i class="fa-solid fa-house"></i>&nbsp;Home</a>
-                                <a class="nav-link text-white" href="#"><i class="fa-brands fa-instagram"></i>&nbsp;Instagram</a>
+                                <a class="nav-link text-white" href="https://www.instagram.com/_deiiivid/"><i class="fa-brands fa-instagram"></i>&nbsp;Instagram</a>
                                 <!--Ahi si me quiere seguir sin compromiso-->
-                                <a class="nav-link text-white" href="#"><i class="fa-brands fa-slack"></i>&nbsp;Slack</a>
+                                <a class="nav-link text-white" href="https://join.slack.com/t/adminsoftinc/shared_invite/zt-1hd3yss3a-4JsEpvBN2~jFBBqRwMIWzw"><i class="fa-brands fa-slack"></i>&nbsp;Slack</a>
                                 <!--Slack utilizado para esta actividad-->
-                                <a class="nav-link text-white" href="#"><i class="fa-brands fa-github"></i>&nbsp;GitHub</a>
+                                <a class="nav-link text-white" href="https://github.com/elDuarte10/Practica6_Admin"><i class="fa-brands fa-github"></i>&nbsp;GitHub</a>
                                 <!--Repocitorio utilizado para esta actividad-->
                             </div>
                         </div>
