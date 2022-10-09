@@ -73,6 +73,16 @@
     <Content Include="img\img_msc.png" />
     <Content Include="img\img_mvs.png" />
     <Content Include="img\img_srs.jpg" />
+    <Content Include="img\movies\hp.jpg" />
+    <Content Include="img\music\bnd1.jpg" />
+    <Content Include="img\music\bnd2.jpg" />
+    <Content Include="img\music\prty.jpg" />
+    <Content Include="img\music\rock.png" />
+    <Content Include="img\pool\play.jpeg" />
+    <Content Include="img\series\frds.jpg" />
+    <Content Include="img\series\hmym.jpg" />
+    <Content Include="img\series\lcf.jpg" />
+    <Content Include="img\soccer\team.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

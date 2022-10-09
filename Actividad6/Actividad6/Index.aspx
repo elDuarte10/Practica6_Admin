@@ -10,11 +10,11 @@
 
     <title>My Hobbies</title>
 </head>
-<body>
+<body style="background-color: #003F4D;">
     <form id="form1" runat="server">
         <div class="w-100 h-100">
             <header>
-                <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+                <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #003F4D;">
                     <div class="container-fluid">
                         <a class="navbar-brand text-white" href="#">Mis Hobbies</a>
                         <button class="navbar-toggler text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -73,13 +73,46 @@
                 </div>
             </div>
             <div class="w-100">
-                <section class="w-100">
+                <section class="w-100 text-white">
                     <article>
+                        <h3 class="ms-4">Deportes</h3>
+                        <div class="card mb-3 text-dark" style="max-width: 840px; background-color: #C0BDBA;">
+                            <div class="row g-0">
+                                <div class="col-md-4">
+                                    <img src="img/soccer/team.jpg" class="img-fluid rounded-start" alt="..." />
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            Como buen mexicano uno de mis deportes preferidos es el futbol, este deporte lo practique cuando era un niño y hasta la actualidad
+                            sigo jugando dicho deporte, y de igual manera me gusta ver los partidos de futbol aunque no veo todos solamente los importantes o
+                            los que me llaman la atencion. Uno de los equipos que me hizo enamorarme del futbol fue el Real Madrid, dicho equipo he seguido
+                            desde que soy un niño
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card mb-3 text-dark" style="max-width: 840px; background-color: #C0BDBA;">
+                            <div class="row g-0">
+                                <div class="col-md-4">
+                                    <img src="img/pool/play.jpeg" class="img-fluid rounded-start" alt="..." />
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            No se si considerarlo deporte pero el billar es algo que me ha fascinado en los ultimso años, me ayuda bastante a visualizar lo que 
+                                            sucede, es un juego que en verdad me siento tan libre y con una comodidad, aparte que es bueno para una tarde chill con amigos
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </article>
                 </section>
             </div>
             <footer>
-                <div class="bg-primary w-100 text-center text-white">
+                <div class="w-100 text-center text-white">
                     <h6>David Duarte Salgado 361063 07/10/22 - 08/10/22</h6>
                 </div>
             </footer>
