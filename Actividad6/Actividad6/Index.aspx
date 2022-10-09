@@ -10,7 +10,7 @@
 
     <title>My Hobbies</title>
 </head>
-<body style="background-color: #003F4D; overflow-x:hidden;">
+<body style="background-color: #003F4D; overflow-x: hidden;">
     <form id="form1" runat="server">
         <div class="w-100 h-100">
             <header>
@@ -133,7 +133,7 @@
                                 </div>
                                 <div class="col">
                                     <div class="card">
-                                       <!-- <img src="img/series/frds.jpg" class="card-img-top" alt="..." />-->
+                                        <!-- <img src="img/series/frds.jpg" class="card-img-top" alt="..." />-->
                                         <video controls="controls">
                                             <source src="vdo/series/frds.mp4" type="video/mp4" />
                                         </video>
@@ -165,6 +165,25 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </article>
+                </section>
+                <section class="w-100 text-white">
+                    <article>
+                        <h3 class="ms-4">Musica</h3>
+                        <div class="row h-100 align-items-center justify-content-center text-center">
+                            <h5>Highway to Hell - ACDC</h5>
+                            <audio controls="controls" class="w-50 mb-3">
+                                <source src="ado/acdc.mp3" />
+                            </audio>
+                            <h5>Ojits Lindos - Bad Bunny</h5>
+                            <audio controls="controls" class="w-50 mb-3">
+                                <source src="ado/bbuny.mp3" />
+                            </audio>
+                            <h5>West Coast - Imagine Dragons</h5>
+                            <audio controls="controls" class="w-50">
+                                <source src="ado/imgd.mp3" />
+                            </audio>
                         </div>
                     </article>
                 </section>

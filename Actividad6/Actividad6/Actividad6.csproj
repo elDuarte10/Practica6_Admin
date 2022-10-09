@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ado\acdc.mp3" />
+    <Content Include="ado\bbuny.mp3" />
+    <Content Include="ado\imgd.mp3" />
     <Content Include="img\img_banner.jpg" />
     <Content Include="img\img_bllr.jpg" />
     <Content Include="img\img_ft.jpg" />
