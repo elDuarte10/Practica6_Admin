@@ -10,7 +10,7 @@
 
     <title>My Hobbies</title>
 </head>
-<body style="background-color: #003F4D;">
+<body style="background-color: #003F4D; overflow-x:hidden;">
     <form id="form1" runat="server">
         <div class="w-100 h-100">
             <header>
@@ -76,7 +76,7 @@
                 <section class="w-100 text-white">
                     <article>
                         <h3 class="ms-4">Deportes</h3>
-                        <div class="card mb-3 text-dark" style="max-width: 840px; background-color: #C0BDBA;">
+                        <div class="card mb-3 text-dark" style="max-width: 840px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
                                     <img src="img/soccer/team.jpg" class="img-fluid rounded-start" alt="..." />
@@ -93,7 +93,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card mb-3 text-dark" style="max-width: 840px; background-color: #C0BDBA;">
+                        <div class="card mb-3 text-dark" style="max-width: 840px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
                                     <img src="img/pool/play.jpeg" class="img-fluid rounded-start" alt="..." />
@@ -104,6 +104,64 @@
                                             No se si considerarlo deporte pero el billar es algo que me ha fascinado en los ultimso años, me ayuda bastante a visualizar lo que 
                                             sucede, es un juego que en verdad me siento tan libre y con una comodidad, aparte que es bueno para una tarde chill con amigos
                                         </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </section>
+                <section class="w-100 text-white">
+                    <article>
+                        <h3 class="ms-4">Peliculas y Series</h3>
+                        <p class="m-3">
+                            Me gusta mucho ver peliculas y series, mas en mis tiempos libres aunque cuando estoy trabajando en algun proyecto u tarea
+                            normalmente dejo algo de fondo para escucharlo, la mayoria de las veces es alguna saga de peliculas que ya me se o alguna
+                            serie que ya haya visto antes. Algunos de estos son los siguientes ejemplos
+                        </p>
+                        <div class="row h-100 align-items-center justify-content-center">
+                            <div class="row row-cols-1 row-cols-md-2 g-2 w-50 text-dark">
+                                <div class="col">
+                                    <div class="card">
+                                        <!--<img src="img/movies/hp.jpg" class="card-img-top" alt="..." />-->
+                                        <video controls="controls">
+                                            <source src="vdo/movie/hp.mp4" type="video/mp4" />
+                                        </video>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Harry Potter Saga</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card">
+                                       <!-- <img src="img/series/frds.jpg" class="card-img-top" alt="..." />-->
+                                        <video controls="controls">
+                                            <source src="vdo/series/frds.mp4" type="video/mp4" />
+                                        </video>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Friends</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card">
+                                        <!--<img src="img/series/hmym.jpg" class="card-img-top" alt="..." />-->
+                                        <video controls="controls">
+                                            <source src="vdo/series/hmym.mp4" type="video/mp4" />
+                                        </video>
+                                        <div class="card-body">
+                                            <h5 class="card-title">How I Meet Your Mother</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card">
+                                        <!--<img src="img/series/lcf.jpg" class="card-img-top" alt="..." />-->
+                                        <video controls="controls">
+                                            <source src="vdo/series/lcf.mp4" type="video/mp4" />
+                                        </video>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Lucifer</h5>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
